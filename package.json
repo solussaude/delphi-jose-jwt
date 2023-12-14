@@ -1,0 +1,9 @@
+{
+    "name": "delphi-jose-jwt",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/solussaude/delphi-jose-jwt.git",
+    "license": "MIT",
+    "packageManager": "yarn@4.0.2",
+    "private": true
+}
